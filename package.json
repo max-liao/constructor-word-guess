@@ -1,0 +1,19 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "Movie example: ![movie](\\Movie.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max-liao/constructor-word-guess.git"
+  },
+  "author": "Max Liao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max-liao/constructor-word-guess/issues"
+  },
+  "homepage": "https://github.com/max-liao/constructor-word-guess#readme"
+}
