@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/max-liao/constructor-word-guess/issues"
   },
-  "homepage": "https://github.com/max-liao/constructor-word-guess#readme"
+  "homepage": "https://github.com/max-liao/constructor-word-guess#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
